@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matemática</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+    <header>
+        <h1 id="titulo">Calculadora Véia</h1>
+    </header>
+
+    <section>
+        <div>
+            
+            <div id="botoes">
+                <p>Número 1: <input type="number" name="txtn" id="txtn1" class="tbotao"></p>
+                <p>Número 2: <input type="number" name="txtn" id="txtn2" class="tbotao"></p>
+            </div>
+
+            <p id="pbotao">
+                <input type="radio" name="botao" id="botaoso" class="botao" checked>
+                <label for="botaoso">Soma</label>
+                <input type="radio" name="botao" id="botaos" class="botao">
+                <label for="botaos">Subtração</label>
+                <input type="radio" name="botao" id="botaom" class="botao">
+                <label for="botaom">Multiplicação</label>
+                <input type="radio" name="botao" id="botaod" class="botao">
+                <label for="botaod">Divisão</label>
+            </p>
+        </div>
+
+        <div id="dbotao">
+            <input type="button" value="Verificar" name="validar" id="validar" onclick="validar()">
+            <input type="button" value="Limpar" name="limpar" id="limpar" onclick="limpar()">
+        </div>
+
+        <div id="dres">
+            <p id="res">Preencha os dados acima</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; Kteixeira</p>
+    </footer>
+
+    <script src="funcoes.js"></script>
+
+</body>
+</html>

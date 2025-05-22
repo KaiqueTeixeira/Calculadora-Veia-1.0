@@ -1,0 +1,132 @@
+/*PÁGINA COMO UM TODO */
+body {
+    background: rgb(17, 31, 78);
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+/*TÍTULO */
+
+header {
+    text-align: center;
+}
+
+#titulo {
+    font-size: 50px;
+    margin: 60px;
+}
+
+/*QUADRADO BRANCO*/
+
+section {
+    background: white;
+    width: 650px;
+    height: 500px;
+    color: black;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.87);
+}
+
+/*LUGAR DE COLOCAR OS NÚMEROS*/
+
+#botoes {
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.tbotao {
+    width: 200px;
+    border-radius: 20px;
+    border: 2px solid #000000; 
+    border-radius: 8px; 
+    font-size: 16px;
+}
+
+#txtn1 {
+    margin-top: 25px;
+}
+
+/*SELECIONAR AS CONTAS*/
+
+#pbotao {
+    text-align: center;
+    font-weight: bold;
+}
+
+.botao {
+    cursor: pointer;
+}
+
+#botaoso {
+    margin-top: 20px;
+}
+
+/*BOTAO DE VERIFICAR*/
+
+#dbotao {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 10px;
+}
+
+#validar {
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background: rgb(38, 147, 190);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#validar:hover {
+    background: rgb(64, 64, 175);
+}
+
+/*BOTAO DE LIMPAR*/
+
+#limpar {
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background: rgb(38, 147, 190);
+    border: none;
+    border-radius: 5px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+#limpar:hover {
+    background: rgb(64, 64, 175);
+}
+
+/*RESPOSTA*/
+
+#res {
+    text-align: center;
+}
+
+#dres {
+    margin: 60px;
+    font-size: 25px;
+}
+
+/*KTeixeira escrito embaixo */
+
+footer {
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-style: italic;
+    font-size: 17px;
+    opacity: 0.7;
+}
