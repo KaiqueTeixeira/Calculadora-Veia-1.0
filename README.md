@@ -1,6 +1,6 @@
 # 🧮 Calculadora Véia 1.0
 
-Versão inicial de uma calculadora simples, criada com HTML, CSS e JavaScript. Este projeto marca o início da minha jornada com lógica de programação e construção de interfaces.
+Versão inicial de uma calculadora simples, desenvolvida com HTML, CSS e JavaScript. Este projeto marcou o início da minha jornada no mundo da programação, sendo essencial para os primeiros aprendizados em lógica computacional e construção de interfaces. Foi através dele que comecei a moldar meus primeiros raciocínios lógicos e a compreender melhor a estrutura do HTML e os fundamentos de estilização com CSS.
 
 🔗 Projeto online: [Clique aqui para acessar](https://github.com/kaiqueteixeira/Calculadora-Veia-2.0)
 
@@ -18,13 +18,15 @@ Versão inicial de uma calculadora simples, criada com HTML, CSS e JavaScript. E
 
 ## 📸 Interface
 
-![Interface da Calculadora 1.0](./caminho-da-imagem.png)
+![Interface da Calculadora 1.0](https://kaiqueteixeira.github.io/Calculadora-Veia-1.0/Interface/Interface.png)
 
 ## 📚 Aprendizados
 Este projeto me ajudou a:
 - Entender a manipulação do DOM
-- Trabalhar com `eventListeners` e funções básicas
+- Trabalhar com eventListeners e funções básicas
 - Estilizar uma página com CSS básico
+- Compreender melhor a estrutura de um projeto web
+- Melhorar a organização e clareza do código
 
 ## 👨‍💻 Feito por
 - Github - https://github.com/kaiqueteixeira <br>
