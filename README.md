@@ -2,7 +2,7 @@
 
 Versão inicial de uma calculadora simples, desenvolvida com HTML, CSS e JavaScript. Este projeto marcou o início da minha jornada no mundo da programação, sendo essencial para os primeiros aprendizados em lógica computacional e construção de interfaces. Foi através dele que comecei a moldar meus primeiros raciocínios lógicos e a compreender melhor a estrutura do HTML e os fundamentos de estilização com CSS.
 
-🔗 Projeto online: [Clique aqui para acessar](https://github.com/kaiqueteixeira/Calculadora-Veia-2.0)
+🔗 Projeto online: [Clique aqui para acessar](https://kaiqueteixeira.github.io/Calculadora-Veia-1.0/)
 
 # 🚀 Funcionalidades
 - Inserção de dois números
